@@ -1,0 +1,28 @@
+.top {
+    position: absolute;
+    display: block;
+    height: 120px;
+    width: 110px;
+    background-color: red;
+    border-radius: 100%;
+}
+#rigth {
+    top: 40px;
+    left: 50px;
+}
+#left {
+    top: 41px;
+    left: 143px;
+}
+.center {
+    position: absolute;
+    display: block;
+    height: 105px;
+    width: 105px;
+    top: 100px;
+    left: 100px;
+    background-color: red;
+
+    transform: rotate(45deg);
+    
+}
